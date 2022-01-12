@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "abdelghafor",
+      "lastName": "lachkar",
+      "email": "lachkar.dev@gmail.com",
+      "mobile": "0674000000"
+    },
+    {
+      "id": 3,
+      "firstName": "houssam",
+      "lastName": "lachkar",
+      "email": "hossam@gmail.com",
+      "mobile": "0674855240"
+    },
+    {
+      "id": 4,
+      "firstName": "karim",
+      "lastName": "badr",
+      "email": "karimbadr@gmail.com",
+      "mobile": "0672585258"
+    },
+    {
+      "id": 6,
+      "firstName": "abdelghafor",
+      "lastName": "lachkar",
+      "email": "lachkar.dev@gmail.com",
+      "mobile": "0611223355"
+    },
+    {
+      "id": 7,
+      "firstName": "sofia",
+      "lastName": "naji",
+      "email": "najisofia@gmail.com",
+      "mobile": "05258787878"
+    },
+    {
+      "id": 8,
+      "firstName": "jemaa",
+      "lastName": "bromi",
+      "email": "jemaa.brm@gmail.com",
+      "mobile": "0258524565"
+    },
+    {
+      "id": 9,
+      "firstName": "aymane",
+      "lastName": "hwari",
+      "email": "ayman.hwari@gmail.com",
+      "mobile": "0525252525"
+    },
+    {
+      "id": 10,
+      "firstName": "ahmed",
+      "lastName": "aydani",
+      "email": "ahmed.aydani@gmail.com",
+      "mobile": "0658525256"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
